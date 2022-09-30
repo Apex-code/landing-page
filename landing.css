@@ -1,0 +1,298 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    background: white;
+    width: 100%;
+    margin: 0;
+}
+header{
+    background:   hsl(355, 100%, 74%) url("background.svg");
+    height: 50vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    border-bottom-left-radius: 50px;
+    margin-right: 0%;
+}
+nav{
+    display: flex;
+    margin-bottom: 40px;
+    padding-top: 30px;
+    
+}
+#blog{
+    color: white;
+    margin-left: 60px;
+    margin-right: 40px;
+    
+    
+}
+.dropdown-items{
+    margin-right: 1000px;
+    display: flex;
+}
+#Product{
+    font-size: 25px;
+}
+#Company{
+    font-size: 25px;
+}
+#Connect{
+    font-size: 25px;
+}
+#blog{
+    font-size: 27px;
+}
+.blog1{
+    margin-left: 0%;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+h2{
+    display: flex;
+}
+ul{
+    display: inline-flex;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+}
+li{
+    list-style: none;
+
+}
+.btn1{
+    height: 6vh;
+    border-radius: 45px;
+    width: 120px;
+    border: 1px solid hsl(355, 100%, 74%);
+    margin-right: 10px;
+    background: hsl(355, 100%, 74%);
+    color: white;
+    font-size: 20px;
+}
+.btn-2{
+    font-size: 20px;
+    color: red;
+}
+.btn-1{
+    color: white;
+}
+.btn2{
+    height: 6vh;
+    border-radius: 45px;
+    width: 120px;
+    border: 1px solid rgb(250, 240, 240);
+    margin-right: 10px;
+    background: white;
+    width: 150px;
+}
+
+.paragraph{
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+    font-size: 60px;
+}
+.second-paragraph{
+    text-align: center;
+    align-items: center;
+    color: white;
+    margin-bottom: 60px;
+}
+.first-button{
+    align-items: center;
+    text-align: center;
+    background: white;
+    justify-content: center;
+    margin-bottom: 60px;
+    margin-left: 42%;
+    height: 6vh;
+    border-radius: 45px;
+    width: 150px;
+    border: 1px solid rgb(250, 240, 240);
+    margin-right: 10px;
+}
+#anchorbutton{
+    color: red;
+    font-size: 20px;
+}
+#anchorbutton2{
+    color: white;
+    font-size: 20px;
+}
+.second-button{
+    align-items: center;
+    justify-content: center;
+    height: 6vh;
+    border-radius: 45px;
+    width: 150px;
+    border: 3px solid white;
+    background: hsl(355, 100%, 74%);
+}
+a{
+    text-decoration: none;
+}
+#Product{
+    display: flex;
+    background:  hsl(355, 100%, 74%);
+    color: white;
+    border: 1px solid hsl(355, 100%, 74%);
+}
+#Company{
+    display: flex;
+    background:  hsl(355, 100%, 74%);
+    color: white;
+    border: 1px solid  hsl(355, 100%, 74%);
+}
+#Connect{
+    display: flex;
+    background:  hsl(355, 100%, 74%);
+    color: white;
+    border: 1px solid  hsl(355, 100%, 74%);
+}
+.button-div{
+    display: flex;
+}
+.button-div > a {
+    color: red;
+}
+#section-text{
+    justify-content: center;
+    margin-top: 150px;
+    align-items: center;
+    text-align: center;
+    margin-right: 430px;
+    margin-left: 370px;
+    margin-bottom: 80px;
+    color: hsl(237, 23%, 32%);
+    font-size: 40px;
+
+}
+.content-1{
+    margin-left: 250px;
+}
+#content1-item{
+    margin-bottom: 20px;
+    display: flex;
+    margin-left: 300px;
+    font-size: 40px;
+    color: hsl(237, 23%, 32%);
+}
+#content2-item{
+    font-size: 40px;
+    color:  hsl(237, 23%, 32%);
+}
+#content1-item2{
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+#last-content1{
+    margin-bottom: 40px;
+}
+#second-image{
+    width: 1200px;
+    margin-left: 150px;
+    height: 90vh;
+    margin-right: 0%;
+}
+.section2-items{
+    display: flex;
+    margin-left: 300px;
+}
+.contents{
+    margin-right: 80px;
+}
+.upcontent{
+    display: flex;
+}
+p{
+    font-size: 30px;
+}
+.samecontent{
+    display: flex;
+    margin-bottom: 50px;
+    color: hsl(237, 23%, 32%);
+}
+.middle-section{
+    border: 1px solid hsl(237, 23%, 32%);
+    background: hsl(237, 23%, 32%) url("big.svg");
+    width: 100%;
+    height: 50vh;
+    margin-top: 60px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+}
+.phones{
+    margin-left: 120px;
+
+}
+.middle-section{
+    display: flex;
+    color: white;
+    
+}
+.middleh1{
+    font-size: 60px;
+    margin-top: 50px;
+    margin-bottom: 45px;
+}
+.middle-section2{
+    margin-left: 100px;
+}
+.last-section{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#last-div{
+    margin-top: 150px;
+    margin-left: 70px;
+}
+#laptoph1{
+    font-size: 40px;
+    color: hsl(240, 10%, 16%);;
+}
+#laptop2h1{
+    font-size: 40px;
+}
+.footer-text{
+    display: flex;
+}
+.main-footer{
+    border: 1px solid hsl(240, 10%, 16%);
+    background: hsl(240, 10%, 16%);
+    width: 100%;
+    height: 60vh;
+    color: white;
+    display: flex;
+    border-top-right-radius: 60px;
+    padding-top: 60px;
+}
+h3{
+    font-size: 30px;
+}
+#footer-text{
+    font-size: 30px;
+    font-weight: 900;
+}
+#footer-text2{
+    font-size: 30px;
+    font-weight: 900;
+}
+.footer-first{
+    margin-left: 300px;
+}
+.footer-second{
+    margin-left: 300px;
+}
+.footer-third{
+    margin-left: 300px;
+}
+.footer-fourth{
+    margin-left: 300px;
+}
